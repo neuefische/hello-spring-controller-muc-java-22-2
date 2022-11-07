@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HelloSpringControllerMucJava222Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HelloSpringControllerMucJava222Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(HelloSpringControllerMucJava222Application.class, args);
+    }
 
 }
